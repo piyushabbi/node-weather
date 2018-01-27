@@ -1,0 +1,15 @@
+{
+  "name": "weather-node",
+  "version": "1.0.0",
+  "description": "Weather node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyush Abbi",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "yargs": "^11.0.0"
+  }
+}
